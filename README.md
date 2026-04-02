@@ -15,10 +15,6 @@ A Spotify Clone web application built using HTML, CSS, and JavaScript.
 * CSS
 * JavaScript
 
-## 📸 Project Preview
-
-![Spotify Clone Preview](images/spotify-screenshot.png)
-
 ## 📚 What I Learned
 
 * DOM Manipulation
